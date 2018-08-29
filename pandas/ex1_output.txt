@@ -1,0 +1,14 @@
+************************************************************
+Head of the CSV...
+   Rank          Player Team Position  Points  Games   Avg
+0   1.0     Todd Gurley  LAR       RB   383.3   15.0  25.6
+1   2.0  Russell Wilson  SEA       QB   347.8   16.0  21.7
+2   3.0    Le'Veon Bell  PIT       RB   341.6   15.0  22.8
+3   4.0    Alvin Kamara   NO       RB   315.4   16.0  19.7
+4   5.0   Antonio Brown  PIT       WR   310.3   14.0  22.2
+           Player   Avg
+0     Todd Gurley  25.6
+1  Russell Wilson  21.7
+2    Le'Veon Bell  22.8
+3    Alvin Kamara  19.7
+4   Antonio Brown  22.2
