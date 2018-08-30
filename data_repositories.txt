@@ -1,0 +1,10 @@
+Popular open data repositories:
+
+Kaggle datasets
+https://www.kaggle.com/datasets
+
+UC Irvine Machine Learning Repository
+http://archive.ics.uci.edu/ml/index.php
+
+Amazon’s AWS datasets
+https://registry.opendata.aws/
