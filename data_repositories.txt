@@ -8,3 +8,12 @@ http://archive.ics.uci.edu/ml/index.php
 
 Amazon’s AWS datasets
 https://registry.opendata.aws/
+
+
+Meta portals (they list open data repositories):
+
+http://dataportals.org/
+
+http://opendatamonitor.eu/
+
+http://quandl.com/
