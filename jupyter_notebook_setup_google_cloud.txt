@@ -1,0 +1,29 @@
+Installation using Anaconda
+
+Step1-Install Jupyter Notebook
+  conda install jupyter
+
+Step 2 - configure Jupyter to work in non browser environemnt. 
+
+jupyter notebook --generate-config
+
+Step 3-
+cd cd /home/userid/.jupyter
+
+Edit  [vi jupyter_notebook_config.py] file...
+add the 4 lines at the end.
+
+Step 4-
+setup your password for notebook
+
+jupyter notebook password
+
+Step 5
+
+Start the Notebook.
+jupyter notebook --no-browser --port=5000
+
+Step 6- 
+Open your browser - enter the url.  
+
+http://external-ip:7878/tree
