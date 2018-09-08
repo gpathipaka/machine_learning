@@ -6,3 +6,10 @@ https://www.kdnuggets.com/2018/06/top-20-python-libraries-data-science-2018.html
 
 ata-Science-Cheatsheet
 https://github.com/ml874/Data-Science-Cheatsheet
+
+
+
+
+https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
+https://www.datacamp.com/community/tutorials/python-numpy-tutorial
