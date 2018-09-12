@@ -13,3 +13,11 @@ https://github.com/ml874/Data-Science-Cheatsheet
 https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
 
 https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+
+
+Over 200 of the Best Machine Learning
+https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc
+
+
+7 Steps to Mastering Machine Learning With Python
+https://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
